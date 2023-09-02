@@ -1,0 +1,89 @@
+body {
+  background-color: #FAB2EA;
+}
+body nav {
+  background-color: #614344;
+}
+body nav div a img {
+  max-width: 100%;
+}
+body aside ul {
+  list-style: none;
+}
+body main div {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+body main div h1 {
+  color: #ffffff;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4745098039);
+}
+body section div {
+  margin-bottom: 3px;
+}
+body footer div {
+  background-color: #88527f;
+}
+body footer div a {
+  color: #ffffff;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4745098039);
+}
+
+.nav-link {
+  color: #ffffff;
+}
+
+.navbar-nav {
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+.card-body {
+  display: block;
+}
+
+.offcanvas {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  background-color: rgba(192, 97, 179, 0.8156862745);
+}
+
+.offcanvas-backdrop {
+  background-color: rgba(0, 0, 0, 0.3882352941);
+}
+
+.btn-primary {
+  --bs-btn-bg: #cd3db5;
+  --bs-btn-border-color: #cd3db5;
+  --bs-btn-hover-bg: #88527f;
+  --bs-btn-hover-border-color: #88527f;
+  --bs-btn-active-bg: #d1cbcb;
+  --bs-btn-active-border-color: #d1cbcb;
+}
+
+.card {
+  --bs-card-bg: #835e869a;
+  border: rgba(131, 94, 134, 0.6039215686);
+}
+
+.btn-danger {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 8px;
+  padding-right: 8px;
+  font-size: 10px;
+}

@@ -1,0 +1,59 @@
+{
+    "productos": [
+
+        {
+            "id": "1",
+            "nombre": "Nike Courtside",
+            "precio": "320",
+            "stock": "50",
+            "descripcion": "El estilo Courtside se une a los tiempos modernos. Confeccionado con  el look clásico de tenis que tanto te gusta. Con materiales sustentables de arriba a abajo.",
+            "src": "./assets/modelovaron_1.jpg"
+        },
+
+        {
+            "id": "2",
+            "nombre": "Court Vision Mid",
+            "precio": "360",
+            "stock": "40",
+            "descripcion": "Las Court Vision Mid son unas zapatillas urbanas Nike de hombre que lucen un estilo retro con toques modernos. Inspiradas en los años 80.",
+            "src": "./assets/modelovaron_2.jpg"
+        },
+
+        {
+            "id": "3",
+            "nombre": "Urbano Adidas Gw2063",
+            "precio": "340",
+            "stock": "40",
+            "descripcion": "Añade un toque deportivo a tu look con esta zapatilla adidas. La parte superior de piel sintética suave y resistente te ofrece un ajuste cómodo.",
+            "src":"./assets/modelo3_varon.jpg"
+        },
+
+        {
+            "id": "4",
+            "nombre": "Nike Renew Retaliation",
+            "precio": "320",
+            "stock": "50",
+            "descripcion": "Nike Renew Retaliation 4 son zapatillas de gran ligereza y rebote duradero. para un desplazamiento suave de más estabilidad.",
+            "src": "./assets/modelo4_varon.png"
+        },
+
+        {
+            "id": "5",
+            "nombre": "Nike Air Max Ap",
+            "precio": "340",
+            "stock": "40",
+            "descripcion": "Las Nike Air Max AP te permiten unir el pasado y el presente con una comodidad de primera clase.",
+            "src":"./assets/modelo5_varon.png"
+        },
+
+        {
+            "id": "6",
+            "nombre": "Nike Downshifter 12",
+            "precio": "310",
+            "stock": "30",
+            "descripcion": "Nike Downshifter 12 son zapatillas de correr para hombre, con las que podrás practicar tu actividad favorita con total seguridad.",
+            "src": "./assets/modelo6_varon.png"
+        }
+
+    ]
+}
